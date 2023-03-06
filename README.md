@@ -19,7 +19,7 @@ Portfolio Website: https://github.com/Abhilash17br
 * Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity*
 * A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.*
 
-### eCommerce Database Analysis – SQL Data Analyst Challenge at Maven Analytics.
+### *eCommerce Database Analysis – SQL Data Analyst Challenge at Maven Analytics.*
 * Analyzed and optimized business marketing channels, website conversion performance, business patterns and seasonality, explore the impact of new product launches and find valuable customers.*
 * Conducted in-depth analysis on website traffic sources using UTM parameters for various segments of paid traffic for bid optimization. A/B split testing to analyze key landing page by conversion rate.*
 * Derived conversion funnels for various website pages to understand the user experience towards product purchasing. Day-parting analysis and analyzed seasonality and business patterns to maximize efficiency and anticipate future trends.*
@@ -27,39 +27,39 @@ Portfolio Website: https://github.com/Abhilash17br
 * Analysis on User Behavior has helped business identify most valuable customers and optimize marketing channels.*
 
 
-### Provide Revenue Insights in Hospitality Domain. – Resume Challenge @ Codebasics.io.
+### *Provide Revenue Insights in Hospitality Domain. – Resume Challenge @ Codebasics.io.*
 * Significant amount of time was dedicated in Understanding the industry’s Domain knowledge, a few Metrics such as RevPAR, ADR, Occupancy %, SRN, DSRN, Realization, URN, BRN, Revenue, Cancellation, Capacity were thoroughly understood to utilize the true value of the data.*
 * A Dynamic Dashboard was designed, to capture in-depth analysis of Pricing, Revenue, occupancy trends, a drill down analysis by region, individual properties, booking channels were provided to plan strategic move and regain the market share and revenue.*
 * Implementing stakeholders’ thoughts into Dashboard through Domain Knowledge and Communication was Achieved.*
 
-### Provide Insights in Consumer Goods Domain. – Resume Challenge @ Codebasics.io.
+### *Provide Insights in Consumer Goods Domain. – Resume Challenge @ Codebasics.io.*
 * A Resume Challenge, to present Insights for an Ad-Hoc-Request by management for a quick and smart data-informed decisions. Requests were answered through SQL Queries and were later presented to the management through Power BI.*
 
-### SQL Challenge Organized by Data with Danny.
+### *SQL Challenge Organized by Data with Danny.*
 * Solved various Case studies through SQL, related to Fast moving consumer goods, Marketing Analytics, which was conducted under 8-week SQL Challenge by Danny Ma.*
 
 ## PROFESSIONAL EXPERIENCE 
 
 ### Senior Design Engineer.  – Mechanical.  
-### Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
-*● Worked as Design Engineer in the R&D of Shotblasting Machine’s Structural Design and Analysis. Managed a team of Engineer in Designing, Planning and Project Execution. Handled client interaction with respect to designing aspects of the machine. Interacted with various departments of the organization in smooth Project Execution.*
-*●	Performed Data Querying and analysis using SQL to extract Project critical information for Detailed Planning and designing of Machine, for Cost estimation, Production Planning, and scheduling project execution dates.*
+Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
+* Worked as Design Engineer in the R&D of Shotblasting Machine’s Structural Design and Analysis. Managed a team of Engineer in Designing, Planning and Project Execution. Handled client interaction with respect to designing aspects of the machine. Interacted with various departments of the organization in smooth Project Execution.*
+* Performed Data Querying and analysis using SQL to extract Project critical information for Detailed Planning and designing of Machine, for Cost estimation, Production Planning, and scheduling project execution dates.*
 
 ## SKILLS
 
-Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.
-Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).
-Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.
-Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
-                                    Can Quickly develop an understanding of a business and domain Knowledge.
+*Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.*
+*Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).*
+*Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.*
+*Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
+                                    Can Quickly develop an understanding of a business and domain Knowledge.*
 
 ## CERTIFICATIONS
 
-●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.
-●	SQL Beginner to Advance for Data Professionals - Codebasics.
-●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.
-●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.
-●	Introduction to Data Analysis Using Excel – Upgrade.
+*●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.
+*●	SQL Beginner to Advance for Data Professionals - Codebasics.
+*●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.
+*●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.
+*●	Introduction to Data Analysis Using Excel – Upgrade.
 
 
 ## EDUCATION 
