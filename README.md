@@ -9,7 +9,7 @@ Portfolio Website: https://github.com/Abhilash17br
 
 ## PROJECT EXPERIENCE 
 ### *Business Insights 360 - Data Analyst Challenge at Codebasics.io*
-SQL – Data Exploration and Mining, Power BI – Dashboard.	 	 	 	 	 	 	 	           
+#### SQL – Data Exploration and Mining, Power BI – Dashboard.	 	 	 	 	 	 	 	           
 ●	Analyzed sales data of a hardware manufacturing company and generated insights related to finance, sales, market, and supply chain analytics. With Bulk loading of data and establishing relationships in a Snowflake schema format between the tables with ERD in MySQL and data was ready for Analysis. Used statistical functions for data aggregation and summarization to generate Profit and Loss metrics, developed Stored Procedures for the complex queries to help product owners generate reports, established a pipeline to derive Key Metrics.
 ●	Generated valuable reports to stakeholders on top markets, platforms, and customers. Metrics, such as Net Error, Absolute Net Error, and Forecast Accuracy, that helped businesses make informed decisions.
 ●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.
