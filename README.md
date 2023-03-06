@@ -72,8 +72,8 @@ Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
 
 ## EDUCATION 
 
-*BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)*
--University Visveswaraya College of Engineering (Bangalore University)
+BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)
+  University Visveswaraya College of Engineering (Bangalore University)
 
-*FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)*
- -iNeuron.ai – Bangalore
+FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)
+   iNeuron.ai – Bangalore
