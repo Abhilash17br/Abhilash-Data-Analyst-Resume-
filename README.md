@@ -1,4 +1,4 @@
-# _Abhilash B R (Data Analyst - Resume)_
+# Abhilash B R (Data Analyst - Resume)
 
 +917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br | https://github.com/Abhilash17br
 https://www.novypro.com/profile_projects/abhilashbr 
