@@ -43,29 +43,37 @@ Portfolio Website: https://github.com/Abhilash17br
 ### Senior Design Engineer.  – Mechanical.  
 Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
 * Worked as Design Engineer in the R&D of Shotblasting Machine’s Structural Design and Analysis. Managed a team of Engineer in Designing, Planning and Project Execution. Handled client interaction with respect to designing aspects of the machine. Interacted with various departments of the organization in smooth Project Execution.*
+
 * Performed Data Querying and analysis using SQL to extract Project critical information for Detailed Planning and designing of Machine, for Cost estimation, Production Planning, and scheduling project execution dates.*
 
 ## SKILLS
 
 *Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.*
+
 *Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).*
+
 *Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.*
+
 *Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
                                     Can Quickly develop an understanding of a business and domain Knowledge.*
 
 ## CERTIFICATIONS
 
 *●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.
+
 *●	SQL Beginner to Advance for Data Professionals - Codebasics.
+
 *●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.
+
 *●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.
+
 *●	Introduction to Data Analysis Using Excel – Upgrade.
 
 
 ## EDUCATION 
 
-BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)
+*BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)*
 University Visveswaraya College of Engineering (Bangalore University)
 
-FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)
+*FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)*
 iNeuron.ai – Bangalore
