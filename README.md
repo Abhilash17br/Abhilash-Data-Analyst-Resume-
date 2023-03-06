@@ -59,21 +59,23 @@ Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
 
 ## CERTIFICATIONS
 
-*●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.
+*●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.*
 
-*●	SQL Beginner to Advance for Data Professionals - Codebasics.
+*●	SQL Beginner to Advance for Data Professionals - Codebasics.*
 
-*●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.
+*●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.*
 
-*●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.
+*●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.*
 
-*●	Introduction to Data Analysis Using Excel – Upgrade.
+*●	Introduction to Data Analysis Using Excel – UpGrad.*
 
 
 ## EDUCATION 
 
 *BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)*
+
 University Visveswaraya College of Engineering (Bangalore University)
 
 *FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)*
+
 iNeuron.ai – Bangalore
