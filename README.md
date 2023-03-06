@@ -46,10 +46,10 @@ Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
 
 ## SKILLS
 
-*Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.*  
-*Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).*  
-*Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.*  
-*Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
+* Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.*  
+* Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).*  
+* Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.*  
+* Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
                                     Can Quickly develop an understanding of a business and domain Knowledge.*  
 
 ## CERTIFICATIONS
