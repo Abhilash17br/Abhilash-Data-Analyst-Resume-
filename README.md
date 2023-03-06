@@ -2,6 +2,7 @@
 
 +917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br | https://github.com/Abhilash17br
 https://www.novypro.com/profile_projects/abhilashbr 
+
 Portfolio Website: https://github.com/Abhilash17br
 
 ### *"Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful    insights and data-driven decision making.”*
