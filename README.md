@@ -1,7 +1,6 @@
 # Abhilash B R (Data Analyst - Resume)
 
-+917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br  
-https://www.novypro.com/profile_projects/abhilashbr  
++917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br | https://www.novypro.com/profile_projects/abhilashbr  
 Portfolio Website : https://abhilash17br.github.io  
 
 ### *"Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful    insights and data-driven decision making.”*
