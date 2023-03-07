@@ -1,9 +1,8 @@
 # Abhilash B R (Data Analyst - Resume)
 
-+917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br | https://github.com/Abhilash17br
-https://www.novypro.com/profile_projects/abhilashbr 
-
-Portfolio Website: https://github.com/Abhilash17br
++917892023766; abhilash17br@gmail.com | https://www.linkedin.com/in/abhilash17br  
+https://www.novypro.com/profile_projects/abhilashbr  
+Portfolio Website : https://abhilash17br.github.io  
 
 ### *"Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful    insights and data-driven decision making.”*
 
@@ -13,7 +12,7 @@ Portfolio Website: https://github.com/Abhilash17br
 * Analyzed sales data of a hardware manufacturing company and generated insights related to finance, sales, market, and supply chain analytics. With Bulk loading of data and establishing relationships in a Snowflake schema format between the tables with ERD in MySQL and data was ready for Analysis. Used statistical functions for data aggregation and summarization to generate Profit and Loss metrics, developed Stored Procedures for the complex queries to help product owners generate reports, established a pipeline to derive Key Metrics.*
 * Generated valuable reports to stakeholders on top markets, platforms, and customers. Metrics, such as Net Error, Absolute Net Error, and Forecast Accuracy, that helped businesses make informed decisions.*
 * Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.*
-* Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.*
+* ●	Utilized DAX to create calculated columns and measures to built a dynamic dashboard with features such as KPI’s, trends, Top Performers etc.*  
 * Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.*
 * Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.*
 * Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity*
@@ -34,8 +33,8 @@ Portfolio Website: https://github.com/Abhilash17br
 ### *Provide Insights in Consumer Goods Domain. – Resume Challenge @ Codebasics.io.*
 * A Resume Challenge, to present Insights for an Ad-Hoc-Request by management for a quick and smart data-informed decisions. Requests were answered through SQL Queries and were later presented to the management through Power BI.*
 
-### *SQL Challenge Organized by Data with Danny.*
-* Solved various Case studies through SQL, related to Fast moving consumer goods, Marketing Analytics, which was conducted under 8-week SQL Challenge by Danny Ma.*
+### *SQL - Data Exploration & Data Cleaning.*  
+* This Project is a combination of many online SQL challenges from a variety of Sources. Each challenge comes from a different domain are involves a many processes in data analysis, such as Data loading in to SQL database, Data Cleaning and Data Exploration to generate insights. I have done few case-studies of 8-week SQL Challenge by Danny Ma, Data Cleaning on a Nashville Housing Data.*  
 
 ## PROFESSIONAL EXPERIENCE 
 
@@ -49,8 +48,7 @@ Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
 * Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.*  
 * Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).*  
 * Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.*  
-* Core Competencies: Strong problem-solving and critical thinking skills, Effective Communication skill. 
-                                    Can Quickly develop an understanding of a business and domain Knowledge.*  
+* Core Competencies:  Able to work collaboratively with cross-functional teams and effectively communicate insights and recommendations to both technical and non-technical audiences. Can Quickly develop an understanding of a business and domain Knowledge.  *  
 
 ## CERTIFICATIONS
 
